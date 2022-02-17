@@ -1,0 +1,9 @@
+{
+	"ip":"gyosmp.aternos.me",
+	"port": "35326",
+	"name": "ErlanggaX",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
