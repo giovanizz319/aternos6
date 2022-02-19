@@ -46,11 +46,11 @@ function task(i) {
 	
   setTimeout(function() { 
     if(first == true){
-	bot.chat("HALO AKU FAHRIZA 6 TAHUN")
+	bot.chat("b")
 	first = false;
 	}
 	else{
-		bot.chat("awas kalian kuhancurin base kalian nanti wkwkwkwkwk")
+		bot.chat("awawaw")
 		first = true;
 	}
   }, 3600000 * i); 
